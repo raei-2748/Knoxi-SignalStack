@@ -1,0 +1,27 @@
+variable,description,Ex_1,Ex_2,Ex_3,Ex_4
+game_id,Unique identifier for the game,game_1,game_1,game_1,game_1
+record_id,Unique identifier for each line pairing in a game,record_1,record_2,record_3,record_4
+home_team,Team name for the home side,thailand,thailand,thailand,thailand
+away_team,Team name for the away side,pakistan,pakistan,pakistan,pakistan
+went_ot,"Whether the game went to overtime/shootout {0,1}",0,0,0,0
+home_off_line,Offensive line on the ice,PP_kill_dwn,second_off,first_off,second_off
+home_def_pairing,Defense pairing deployed on the ice,PP_kill_dwn,second_def,second_def,first_def
+away_off_line,Offensive line on the ice,PP_up,second_off,second_off,second_off
+away_def_pairing,Defense pairing deployed on the ice,PP_up,second_def,second_def,first_def
+home_goalie,Goalie name,player_id_142,player_id_142,player_id_142,player_id_142
+away_goalie,Goalie name,player_id_106,player_id_106,player_id_106,player_id_106
+toi,Time on ice covered by row (s),628.8,197.61,47.06,44.6
+home_assists,Assists before a goal,0,0,0,0
+home_shots,Shots on goal taken,2,0,0,1
+home_xg,Total expected goals (xG) generated,0.1754,0,0,0.1211
+home_max_xg,Highest single-shot xG value,0.0877,0,0,0.1211
+home_goals,Goals scored,0,0,0,0
+away_assists,Assists before a goal,2,2,0,0
+away_shots,Shots on goal taken,9,1,2,1
+away_xg,Total expected goals (xG) generated,1.4645,0.0928,0.188,0.0727
+away_max_xg,Highest single-shot xG value,0.2166,0.0928,0.094,0.0727
+away_goals,Goals scored,1,1,0,0
+home_penalties_committed,Penalties assessed against the team,7,0,0,0
+home_penalty_minutes,Penalties assessed against the team,14,0,0,0
+away_penalties_committed,Total penalty minutes assessed,1,0,0,0
+away_penalty_minutes,Total penalty minutes assessed,2,0,0,0
